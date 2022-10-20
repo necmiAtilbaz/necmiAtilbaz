@@ -1,4 +1,4 @@
-<div style="bacground-color: black;">
+
 <h1 align="center">Hi 👋, I'm Necmi</h1>
 <h3 align="center">Jr. Software Developer</h3>
 
@@ -19,4 +19,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=necmiAtilbaz)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
