@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Necmi</h1>
 <h3 align="center">Jr. Software Developer</h3>
 
-- 🌱 I’m currently learning **Full stack .NET Development**
+- 🌱 I’m currently learning **Full stack .NET - React Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/necmiatilbaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/necmiatilbaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/necmiatilbaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="necmiatilbaz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18668704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18668704" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@necmiatilbazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@necmiatilbazz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/necmiatilbazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="necmiatilbazz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
