@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Necmi</h1>
 <h3 align="center">Jr. Software Developer</h3>
 
-- 🌱 I’m currently learning **Fullstack .NET Development**
+- 🌱 I’m currently learning **Full stack .NET Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
